@@ -1,0 +1,4 @@
+docker/mysql/lib
+docker/log/nginx
+docker/log/php
+web/images/covers/tmp
